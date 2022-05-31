@@ -69,7 +69,7 @@ h2,h4{
 }
 
 .social a:hover i{
-    color: #c00;
+    opacity: 0.5;;
 }
 
 .logo{
